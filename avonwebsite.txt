@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Avon - Beauty and Wellness</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Avon</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="avon.html">Home</a></li>
+                <li><a href="products.html">Products</a></li>
+                <li><a href="about us.html">About Us</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Your Beauty Starts Here</h2>
+        <p>Discover the best in skincare, makeup, and wellness.</p>
+        <a href="products.html" class="btn">Shop Now</a>
+    </section>
+    <section class="categories">
+        <div class="category">
+            <h3>Skincare</h3>
+            <p>Find the best products for your skin.</p>
+        </div>
+        <div class="category">
+            <h3>Makeup</h3>
+            <p>Enhance your beauty with our makeup collection.</p>
+        </div>
+        <div class="category">
+            <h3>Fragrance</h3>
+            <p>Discover your signature scent.</p>
+        </div>
+    </section>
+    <section class="product-list">
+        <h2>Our Top Products, Discover the Beauty and Wellness of Avon!</h2>
+        <div class="product-item">
+            <img src="https://4.bp.blogspot.com/-xgGjDrrNLi8/VSM_sTubv7I/AAAAAAAADHU/npRNipfFEaQ/s1600/Avon-Anew.JPG" alt="Product 1">
+            <h3>Skincare</h3>
+            <p>₱923</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product-item">
+            <img src="https://n2.sdlcdn.com/imgs/d/1/5/Avon-Lipstick-Red-Supreme-4g-SDL863096130-1-5d8e0.jpeg" alt="Product 2">
+            <h3>Make-up</h3>
+            <p>₱299</p>
+            <button>Add to Cart</button>
+        </div>
+        <div class="product-item">
+            <img src="https://i5.walmartimages.com/asr/bfb743cc-64b4-45c6-8857-6918414d80ec.2b6c86e73dfe6f4a9d9ddde0f922f87a.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff" alt="Product 3">
+            <h3>Fragrance</h3>
+            <p>₱700</p>
+            <button>Add to Cart</button>
+        </div>
+    </section>
+    <footer>
+        <p>&copy; 2025 Avon. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
+
